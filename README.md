@@ -148,3 +148,4 @@ This project is created for **educational and demonstration purposes only**. The
 **Aditya Vishnoi**
 
 Built with Python, Scikit-learn and Streamlit. ❤️
+Live Link-https://heart-disease-sj4fqlve8uv3pw36bzm87e.streamlit.app/
