@@ -814,8 +814,7 @@ if predict_button:
 # =========================================================
 
 st.markdown(
-    """
-        <div class="footer">
+    """ <div class="footer">
         ❤️ Heart Disease Prediction
         <br>
         KNN Classification • StandardScaler • Streamlit
@@ -823,7 +822,6 @@ st.markdown(
         ⚠️ For educational purposes only.
         This tool does not replace professional medical
         advice, diagnosis, or treatment.
-
     </div>
     """,
     unsafe_allow_html=True
