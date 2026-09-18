@@ -680,11 +680,9 @@ if predict_button:
             st.markdown(
                 """
                 <div class="result-box">
-
                     <div class="result-title">
                         🫀 Prediction Result
                     </div>
-
                     <div class="result-value">
                         ⚠️ Heart Disease Detected
                     </div>
@@ -705,11 +703,9 @@ if predict_button:
             st.markdown(
                 """
                 <div class="result-box">
-
                     <div class="result-title">
                         🫀 Prediction Result
                     </div>
-
                     <div class="result-value">
                         ✅ No Heart Disease Detected
                     </div>
@@ -814,7 +810,7 @@ if predict_button:
 # =========================================================
 
 st.markdown(
-    """ <div class="footer">
+    """<div class="footer">
         ❤️ Heart Disease Prediction
         <br>
         KNN Classification • StandardScaler • Streamlit
